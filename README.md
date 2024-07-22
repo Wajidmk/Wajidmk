@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wajidmk</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  alt = "Coding" width ="700" src = "https://cdn.dribbble.com/userupload/9530968/file/original-6da8c522f40edb5b21488ba2ef5a75c1.jpg?resize=1024x650&vertical=center"
+<img align="right"  alt = "Coding" width ="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajidmk&label=Profile%20views&color=0e75b6&style=flat" alt="wajidmk" /> </p>
 
