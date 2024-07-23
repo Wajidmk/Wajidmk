@@ -1,5 +1,6 @@
+[![MasterHead](https://c.tenor.com/1mwdqr51emcAAAAC/tenor.gif)]
 <h1 align="center">Hi 👋, I'm Wajidmk</h1>
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Front-End Developer from India</h3>
 <img align="right"  alt = "Coding" width ="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajidmk&label=Profile%20views&color=0e75b6&style=flat" alt="wajidmk" /> </p>
