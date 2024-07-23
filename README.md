@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/1mwdqr51emcAAAAC/tenor.gif)]
+[![MasterHead](<img src="https://c.tenor.com/1mwdqr51emcAAAAC/tenor.gif" alt="MasterHead" style="width: 100%;">)
 <h1 align="center">Hi 👋, I'm Wajidmk</h1>
 <h3 align="center">A Passionate Front-End Developer from India</h3>
 <img align="right"  alt = "Coding" width ="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
