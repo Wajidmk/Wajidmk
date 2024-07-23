@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://c.tenor.com/0i8TCrriHLUAAAAd/tenor.gif" alt="MasterHead" style="width: 100%; display: block;">
+  <img src="https://c.tenor.com/0i8TCrriHLUAAAAd/tenor.gif" alt="MasterHead"  display: block;">
 </p>
 <h1 align="center">Hi 👋, I'm Wajidmk</h1>
 <h3 align="center">A Passionate Front-End Developer from India</h3>
